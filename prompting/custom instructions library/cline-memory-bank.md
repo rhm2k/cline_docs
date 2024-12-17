@@ -1,4 +1,4 @@
-**When submitting custom instructions, please follow this template:**
+# Cline Memory Bank - Custom Instructions
 
 ### 1. Purpose and Functionality
 
@@ -74,13 +74,6 @@ progress.md
 - Current capabilities (what works)
 - Pending features (what's needed)
 - Progress estimate (%)
-```
-
-Each file must start with:
-```markdown
-Last Updated: YYYY-MM-DD
-Last Major Change: {description}
-```
 
 ## Memory Management Protocol
 
@@ -166,3 +159,4 @@ Don't ask when:
    - Ensure all changes are recorded
 
 Remember: Your memory resets are a feature, not a bug. They ensure every future Cline has the context needed to continue your excellent work.
+```
