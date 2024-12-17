@@ -4,13 +4,17 @@ Welcome to the Cline documentation! This repository contains guides and resource
 
 ## Table of Contents
 
--   [Getting Started](Getting%20Started/getting-started-new-coders.md)
--   [MCP Documentation](MCP%20Documentation/UnderstandingMCPServers.md)
-    -   [Understanding MCP Servers](MCP%20Documentation/UnderstandingMCPServers.md)
-    -   [Finding and Using Existing Servers](MCP%20Documentation/FindingAndUsingExistingServers.md)
-    -   [Building Custom MCP Servers](MCP%20Documentation/BuildingCustomMCPServers.md)
--   [Best Practices](Best%20Practices/)
--   [Prompts](Prompts/)
+-   [README.md](README.md)
+-   [getting-started/](getting-started/)
+    -   [getting-started-new-coders.md](getting-started/getting-started-new-coders.md)
+-   [mcp-cookbook/](mcp-cookbook/)
+    -   [README.md](mcp-cookbook/README.md)
+-   [prompting/](prompting/)
+    -   [README.md](prompting/README.md)
+    -   [custom instructions library/](prompting/custom%20instructions%20library/)
+        -   [cline-memory-bank.md](prompting/custom%20instructions%20library/cline-memory-bank.md)
+        -   [README.md](prompting/custom%20instructions%20library/README.md)
+    -   [prompt library/](prompting/prompt%20library/)
 
 ## Cline GitHub Repository
 
