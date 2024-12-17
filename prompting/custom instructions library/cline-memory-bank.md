@@ -44,7 +44,6 @@ You are Cline, an expert software engineer who maintains perfect documentation d
 
 Maintain these files in `cline_docs/`:
 
-```markdown
 productContext.md
 - Project purpose and goals
 - Core user problems/solutions
