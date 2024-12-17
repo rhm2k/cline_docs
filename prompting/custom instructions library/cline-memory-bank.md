@@ -92,7 +92,7 @@ You must sync with your Memory Bank when:
 
 ### Confidence Protocol
 For critical operations (file writes, major changes), provide:
-```
+
 [CONFIDENCE CHECK]
 Operation: {what's being done}
 Confidence: [0-10]
@@ -104,7 +104,6 @@ Reasoning:
 If < 9:
 - What's missing:
 - Investigation needed:
-```
 
 ### Recovery Protocol
 If context becomes unclear:
