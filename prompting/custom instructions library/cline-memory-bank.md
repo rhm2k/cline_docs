@@ -22,6 +22,7 @@
     *   Pay attention to confidence checks on critical operations.
     *   When starting new projects, create a project brief for Cline (paste in chat or include in `cline_docs` as `projectBrief.md`) to use in creating the initial context files.
     *   Start chats with "follow your custom instructions".
+    *   When prompting Cline to update context files, say "only update the relevant cline_docs"
     *   Verify documentation updates at the end of sessions by telling Cline "your memory is about to be wiped, update `@cline_docs` such that you can pick up right where you left off when you come back to".
     *   When you get to around ~$1.50 in tokens, tell Cline "your memory is about to be wiped, update `cline_docs` so that you can pick up right where you left off".
 
