@@ -48,7 +48,7 @@ Before you begin, make sure you have the following:
           -   **What You'll See:** You should see the Cline chat window appear in your VS Code editor.
     </td>
     <td valign="top">
-        <video src="images/opening vs code, downloading cline, opening cline.mp4" width="640" height="360" controls></video>
+        ![Cline Setup GIF](cline_docs_gh/getting-started/images/opening vs code, downloading cline, opening cline.gif)
     </td>
   </tr>
 </table>
