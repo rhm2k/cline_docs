@@ -23,8 +23,8 @@
     *   When starting new projects, create a project brief for Cline (paste in chat or include in `cline_docs` as `projectBrief.md`) to use in creating the initial context files.
     *   Start chats with "follow your custom instructions".
     *   When prompting Cline to update context files, say "only update the relevant cline_docs"
-    *   Verify documentation updates at the end of sessions by telling Cline "your memory is about to be wiped, update `@cline_docs` such that you can pick up right where you left off when you come back to".
-    *   When you get to around ~$1.50 in tokens, tell Cline "your memory is about to be wiped, update `cline_docs` so that you can pick up right where you left off".
+    *   Verify documentation updates at the end of sessions by telling Cline "update memory bank".
+    *   Update memory bank at $1.50 in tokens and end the session.
 
 ### 3. Author & Contributors
 
@@ -84,6 +84,7 @@ You must sync with your Memory Bank when:
 3. Switching focus areas (READ/UPDATE)
 4. Adding/changing dependencies (UPDATE)
 5. Ending a work session (UPDATE)
+6. When the user says "update memory bank", it means your memory is about to be wiped, and you MUST update the memory bank to reflect the current state of the project such that you can pick up right where you left off when you come back to before completing the task.
 
 ### Memory Integrity Checks
 - Start each task with: [MEMORY BANK: INITIALIZED]
