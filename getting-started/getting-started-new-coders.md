@@ -25,19 +25,33 @@ Before you begin, make sure you have the following:
 
 ## Step-by-Step Setup
 
-Follow these steps to get Cline up and running:
-
-1.  **Open VS Code:** Launch the VS Code application.
-    -   **Troubleshooting:** If VS Code shows "Running extensions might...", click "Allow".
-2.  **Open Your Cline Folder:** In VS Code, open the Cline folder you created in Documents.
-3.  **Navigate to Extensions:** Click on the Extensions icon in the Activity Bar on the side of VS Code.
-4.  **Search for 'Cline':** In the Extensions search bar, type "Cline".
-5.  **Install the Extension:** Click the "Install" button next to the Cline extension.
-6.  **Open Cline:** Once installed, you can open Cline in a few ways:
-    -   Click the Cline icon in the Activity Bar.
-    -   Use the command palette (`CMD/CTRL + Shift + P`) and type "Cline: Open In New Tab" to open Cline as a tab in your editor. This is recommended for a better view.
-        -   **Troubleshooting:** If you don't see the Cline icon, try restarting VS Code.
-    -   **What You'll See:** You should see the Cline chat window appear in your VS Code editor.
+<table>
+  <tr>
+    <td valign="top">
+      Follow these steps to get Cline up and running:
+      <br><br>
+      1.  **Open VS Code:** Launch the VS Code application.
+          -   **Troubleshooting:** If VS Code shows "Running extensions might...", click "Allow".
+      <br><br>
+      2.  **Open Your Cline Folder:** In VS Code, open the Cline folder you created in Documents.
+      <br><br>
+      3.  **Navigate to Extensions:** Click on the Extensions icon in the Activity Bar on the side of VS Code.
+      <br><br>
+      4.  **Search for 'Cline':** In the Extensions search bar, type "Cline".
+      <br><br>
+      5.  **Install the Extension:** Click the "Install" button next to the Cline extension.
+      <br><br>
+      6.  **Open Cline:** Once installed, you can open Cline in a few ways:
+          -   Click the Cline icon in the Activity Bar.
+          -   Use the command palette (`CMD/CTRL + Shift + P`) and type "Cline: Open In New Tab" to open Cline as a tab in your editor. This is recommended for a better view.
+              -   **Troubleshooting:** If you don't see the Cline icon, try restarting VS Code.
+          -   **What You'll See:** You should see the Cline chat window appear in your VS Code editor.
+    </td>
+    <td valign="top">
+        <video src="images/opening vs code, downloading cline, opening cline.mp4" width="640" height="360" controls></video>
+    </td>
+  </tr>
+</table>
 
 ## Setting up OpenRouter API Key
 
@@ -68,6 +82,7 @@ Hey Cline! Could you help me create a new project folder called "hello-world" in
 
 -   **Ask Questions:** If you're unsure about something, don't hesitate to ask Cline!
 -   **Use Screenshots:** Cline can understand images, so feel free to use screenshots to show him what you're working on.
+    -   **Note:** GIFs can be added using the same image syntax: `![Alt text](path/to/image.gif)`
 -   **Copy and Paste Errors:** If you encounter errors, copy and paste the error messages into Cline's chat. This will help him understand the issue and provide a solution.
 -   **Speak Plainly:** Cline is designed to understand plain, non-technical language. Feel free to describe your ideas in your own words, and Cline will translate them into code.
 
