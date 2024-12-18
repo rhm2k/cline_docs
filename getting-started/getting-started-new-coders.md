@@ -47,9 +47,6 @@ Before you begin, make sure you have the following:
               -   **Troubleshooting:** If you don't see the Cline icon, try restarting VS Code.
           -   **What You'll See:** You should see the Cline chat window appear in your VS Code editor.
     </td>
-    <td valign="top">
-        <img src="getting-started/images/opening vs code_downloading cline_opening cline.gif" alt="Opening VS Code, downloading Cline, and opening Cline" />
-    </td>
   </tr>
 </table>
 
@@ -82,7 +79,6 @@ Hey Cline! Could you help me create a new project folder called "hello-world" in
 
 -   **Ask Questions:** If you're unsure about something, don't hesitate to ask Cline!
 -   **Use Screenshots:** Cline can understand images, so feel free to use screenshots to show him what you're working on.
-    -   **Note:** GIFs can be added using the same image syntax: `![Alt text](path/to/image.gif)`
 -   **Copy and Paste Errors:** If you encounter errors, copy and paste the error messages into Cline's chat. This will help him understand the issue and provide a solution.
 -   **Speak Plainly:** Cline is designed to understand plain, non-technical language. Feel free to describe your ideas in your own words, and Cline will translate them into code.
 
