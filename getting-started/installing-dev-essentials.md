@@ -1,4 +1,4 @@
-# Installing Essential Development Tools with Cline
+# Installing Essential Development Tools with Cline | New Coders
 
 When you start coding, you'll need some essential development tools installed on your computer. Cline can help you install everything you need in a safe, guided way.
 

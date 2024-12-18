@@ -1,4 +1,4 @@
-# Getting Started with Cline for New Coders
+# Getting Started with Cline | New Coders
 
 Welcome to Cline! This guide will help you get set up and start using Cline to build amazing things.
 
