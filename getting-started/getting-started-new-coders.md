@@ -1,8 +1,6 @@
 # Getting Started with Cline | New Coders
 
-Welcome to Cline! This guide will help you get set up and start using Cline to build amazing things.
-
-Join our Discord community: [https://discord.gg/YmtKFD2f](https://discord.gg/YmtKFD2f)
+Welcome to Cline! This guide will help you get set up and start using Cline to build your first project.
 
 ## What You'll Need
 
@@ -11,7 +9,7 @@ Before you begin, make sure you have the following:
 -   **VS Code:** A free, powerful code editor.
     -   [Download VS Code](https://code.visualstudio.com/)
 -   **Development Tools:** Essential software for coding (Homebrew, Node.js, Git, etc.).
-    -   Follow our [Installing Essential Development Tools](installing-dev-essentials.md) guide to set these up with Cline's help
+    -   Follow our [Installing Essential Development Tools](installing-dev-essentials.md) guide to set these up with Cline's help (after getting setup here)
     -   Cline will guide you through installing everything you need
 -   **Cline Projects Folder:** A dedicated folder for all your Cline projects.
     - On macOS: Create a folder named "Cline" in your Documents folder
@@ -42,6 +40,8 @@ Follow these steps to get Cline up and running:
    - Use the command palette (`CMD/CTRL + Shift + P`) and type "Cline: Open In New Tab" to open Cline as a tab in your editor. This is recommended for a better view.
    - **Troubleshooting:** If you don't see the Cline icon, try restarting VS Code.
    - **What You'll See:** You should see the Cline chat window appear in your VS Code editor.
+  
+![gettingStartedVsCodeCline](https://github.com/user-attachments/assets/622b4bb7-859b-4c2e-b87b-c12e3eabefb8)
 
 ## Setting up OpenRouter API Key
 
@@ -85,3 +85,6 @@ Hey Cline! Could you help me create a new project folder called "hello-world" in
 Feel free to contact me, and I'll help you get started with Cline.
 
 nick | 608-558-2410
+
+Join our Discord community: [https://discord.gg/YmtKFD2f](https://discord.gg/YmtKFD2f)
+
