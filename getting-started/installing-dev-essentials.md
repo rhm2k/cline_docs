@@ -48,9 +48,57 @@ Hello Cline! I need help setting up my Mac for software development. Could you p
 ## Notes
 
 - The installation process is interactive - Cline will guide you through each step
-- You may need to enter your computer's password for some installations
+- You may need to enter your computer's password for some installations. When prompted, you will not see any characters being typed on the screen. This is normal and is a security feature to protect your password. Just type your password and press Enter.
+
+**Example:**
+
+```bash
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+Password:
+```
+
+*Type your password here, even though nothing will show up on the screen. Press Enter when you're done.*
+
 - All commands will be shown to you for approval before they run
 - If you run into any issues, Cline will help troubleshoot them
+
+## Additional Tips for New Coders
+
+### Understanding the Terminal
+
+The **Terminal** is an application where you can type commands to interact with your computer. On macOS, you can open it by searching for "Terminal" in Spotlight.
+
+**Example:**
+
+```bash
+$ open -a Terminal
+```
+
+### Understanding VS Code Features
+
+#### Terminal in VS Code
+
+The **Terminal** in VS Code allows you to run commands directly from within the editor. You can open it by going to `View > Terminal` or by pressing `` Ctrl + ` ``.
+
+**Example:**
+
+```bash
+$ node -v
+v16.14.0
+```
+
+#### Document View
+
+The **Document View** is where you edit your code files. You can open files by clicking on them in the **Explorer** panel on the left side of the screen.
+
+#### Problems Section
+
+The **Problems** section in VS Code shows any errors or warnings in your code. You can access it by clicking on the lightbulb icon or by going to `View > Problems`.
+
+### Common Features
+
+- **Command Line Interface (CLI)**: This is a text-based interface where you type commands to interact with your computer. It might seem intimidating at first, but it's a powerful tool for developers.
+- **Permissions**: Sometimes, you will need to give permissions to certain applications or commands. This is a security measure to ensure that only trusted applications can make changes to your system.
 
 ## Next Steps
 
