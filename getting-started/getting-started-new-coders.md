@@ -48,7 +48,7 @@ Before you begin, make sure you have the following:
           -   **What You'll See:** You should see the Cline chat window appear in your VS Code editor.
     </td>
     <td valign="top">
-        ![](getting-started/images/opening vs code, downloading cline, opening cline.gif)
+        <img src="getting-started/images/opening vs code_downloading cline_opening cline.gif" alt="Opening VS Code, downloading Cline, and opening Cline" />
     </td>
   </tr>
 </table>
