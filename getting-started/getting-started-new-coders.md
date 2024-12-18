@@ -11,6 +11,9 @@ Before you begin, make sure you have the following:
 -   **VS Code:** A free, powerful code editor.
     -   [Download VS Code](https://code.visualstudio.com/)
     -   [Screenshot/gif of VS Code download page]
+-   **Development Tools:** Essential software for coding (Homebrew, Node.js, Git, etc.).
+    -   Follow our [Installing Essential Development Tools](installing-dev-essentials.md) guide to set these up with Cline's help
+    -   Cline will guide you through installing everything you need
 -   **A Projects Folder:** A dedicated folder on your computer to store your coding projects. (e.g., "Develop", "Projects", "Code")
     -   [Screenshot/gif of creating a new folder]
 -   **Cline Extension in VS Code:** The Cline extension installed in VS Code.
