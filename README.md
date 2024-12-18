@@ -3,7 +3,7 @@
 This documentation provides resources to help you use Cline effectively.
 
 -   **New to coding?**
-    -   [Getting Started for New Coders](getting-started/getting-started-new-coders.md)
+    -   [Getting Started for New Coders](getting-started-new-coders/README.md)
 
 -   **Want to improve your prompting skills?**
     -   [Prompt Engineering Guide](prompting/README.md)
