@@ -111,11 +111,6 @@ When creating initial memory bank files (as in they don't exist yet):
    - Get explicit user confirmation before creating files
    - Verify completeness of context
 
-4. **Protection**
-   - Check if cline_docs/ exists before initialization
-   - If exists: Verify with user if reset needed
-   - Only proceed if new project or reset confirmed
-
 ### Confidence Protocol
 For critical operations (file writes, major changes), provide:
 
