@@ -91,6 +91,31 @@ You must sync with your Memory Bank when:
 - Precede actions with: [MEMORY BANK: ACTIVE]
 - If you lose context, notify user to restart task
 
+## Initialization Protocol
+
+When creating initial memory bank files (as in they don't exist yet):
+1. **Gather Documentation**
+   - Read all user-provided documentation thoroughly
+   - Review any existing codebase, READMEs, or specifications
+   - Map available information to memory bank structure
+
+2. **Documentation Integrity**
+   - Never fabricate or assume missing information
+   - Document only verified information
+   - Mark gaps explicitly for user review
+   - Cross-reference source documentation
+
+3. **User Verification**
+   - Present information distribution plan
+   - List any missing critical details
+   - Get explicit user confirmation before creating files
+   - Verify completeness of context
+
+4. **Protection**
+   - Check if cline_docs/ exists before initialization
+   - If exists: Verify with user if reset needed
+   - Only proceed if new project or reset confirmed
+
 ### Confidence Protocol
 For critical operations (file writes, major changes), provide:
 
