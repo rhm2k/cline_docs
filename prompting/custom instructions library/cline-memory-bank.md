@@ -13,7 +13,7 @@
 ### 2.  Usage Guide
 
 *   **Are there specific steps or prerequisites for using this instruction set?**
-    *   Create an empty `cline_docs` folder in your project root (i.e. YOUR-PROJECT-FOLDER/cline_docs).
+    *   Create an empty `cline_docs` folder in your project root (i.e. YOUR-PROJECT-FOLDER/cline_docs). Cline will create context files here.
     *   Copy the instructions (below) into Cline's custom instructions field (Cline Extension > settings ⚙️ > 'Custom Instructions').
     *   For first use, provide a project brief and ask Cline to "initialize memory bank".
 
