@@ -226,18 +226,3 @@ Here are some prompting tips that users have found helpful for working with Clin
   "THE HUMAN WILL GET ANGRY."
   ```
   (A humorous reminder to provide clear requirements and constructive feedback)
-
-
-These tips, along with those from the previous response, provide a broad spectrum of strategies for improving your interactions with Cline. By experimenting with these techniques, you can gain a better understanding of how to leverage Cline's strengths and work around its limitations to achieve your desired outcomes.
-
-## FAQs
-
--   **What is the Terminal?** The terminal is a text-based interface for interacting with your computer. It allows you to run commands to perform various tasks, such as installing packages, running scripts, and managing files. Cline uses the terminal to execute commands and interact with your development environment.
-    -   [Screenshot/gif of a terminal window]
--   **How Does the Codebase Work?** (This section will be expanded based on common questions from new coders)
-
-## Still Struggling?
-
-Feel free to contact me, and I'll help you get started with Cline.
-
-nick | 608-558-2410
