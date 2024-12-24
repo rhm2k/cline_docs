@@ -14,7 +14,7 @@ Think of **custom instructions as Cline's programming**. They define Cline's bas
 
 ## .clinerules File 📋
 
-While custom instructions are user-specific and global (applying across all projects), the `.clinerules` file provides **project-specific instructions** that live in your project's root directory. This makes it an excellent tool for:
+While custom instructions are user-specific and global (applying across all projects), the `.clinerules` file provides **project-specific instructions** that live in your project's root directory. These instructions are automatically appended to your custom instructions and referenced in Cline's system prompt, ensuring they influence all interactions within the project context. This makes it an excellent tool for:
 
 * Maintaining project standards across team members
 * Enforcing development practices
