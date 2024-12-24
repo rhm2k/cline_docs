@@ -18,3 +18,4 @@ bazel-out/
 
 # Ignore build artifacts
 build/
+staging/

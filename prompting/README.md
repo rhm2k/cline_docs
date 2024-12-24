@@ -12,6 +12,64 @@ Think of **custom instructions as Cline's programming**. They define Cline's bas
 
 **The `custom-instructions` folder contains examples of custom instructions you can use or adapt.** 
 
+## .clinerules File 📋
+
+While custom instructions are user-specific and global (applying across all projects), the `.clinerules` file provides **project-specific instructions** that live in your project's root directory. This makes it an excellent tool for:
+
+* Maintaining project standards across team members
+* Enforcing development practices
+* Managing documentation requirements
+* Setting up analysis frameworks
+* Defining project-specific behaviors
+
+### Example .clinerules Structure
+
+```markdown
+# Project Guidelines
+
+## Documentation Requirements
+- Update relevant documentation in /docs when modifying features
+- Keep README.md in sync with new capabilities
+- Maintain changelog entries in CHANGELOG.md
+
+## Architecture Decision Records
+Create ADRs in /docs/adr for:
+- Major dependency changes
+- Architectural pattern changes
+- New integration patterns
+- Database schema changes
+Follow template in /docs/adr/template.md
+
+## Code Style & Patterns
+- Generate API clients using OpenAPI Generator
+- Use TypeScript axios template
+- Place generated code in /src/generated
+- Prefer composition over inheritance
+- Use repository pattern for data access
+- Follow error handling pattern in /src/utils/errors.ts
+
+## Testing Standards
+- Unit tests required for business logic
+- Integration tests for API endpoints
+- E2E tests for critical user flows
+```
+
+### Key Benefits
+
+1. **Version Controlled**: The `.clinerules` file becomes part of your project's source code
+2. **Team Consistency**: Ensures consistent behavior across all team members
+3. **Project-Specific**: Rules and standards tailored to each project's needs
+4. **Institutional Knowledge**: Maintains project standards and practices in code
+
+Place the `.clinerules` file in your project's root directory:
+```
+your-project/
+├── .clinerules
+├── src/
+├── docs/
+└── ...
+```
+
 Cline's system prompt, on the other hand, is not user-editable ([here's where you can find it](https://github.com/cline/cline/blob/main/src/core/prompts/system.ts)). For a broader look at prompt engineering best practices, check out [this resource](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview).
 
 ### Tips for Writing Effective Custom Instructions 
