@@ -12,10 +12,17 @@
 
 ### 2.  Usage Guide
 
-*   **Are there specific steps or prerequisites for using this instruction set?**
-    *   Create an empty `cline_docs` folder in your project root (i.e. YOUR-PROJECT-FOLDER/cline_docs). Cline will create context files here.
-    *   Copy the instructions (below) into Cline's custom instructions field (Cline Extension > settings ⚙️ > 'Custom Instructions').
-    *   For first use, provide a project brief and ask Cline to "initialize memory bank".
+*   **How to Add These Instructions**
+    1. Open VSCode
+    2. Click the Cline extension settings dial ⚙️
+    3. Find the "Custom Instructions" field
+    4. Copy and paste the instructions from the section below
+
+    [screenshot: custom-instructions-settings.png]
+
+*   **Project Setup**
+    1. Create an empty `cline_docs` folder in your project root (i.e. YOUR-PROJECT-FOLDER/cline_docs)
+    2. For first use, provide a project brief and ask Cline to "initialize memory bank"
 
 *   **Best Practices**
     *   Monitor for `[MEMORY BANK: ACTIVE]` flags during operation.

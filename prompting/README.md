@@ -4,7 +4,17 @@ Welcome to the Cline Prompting Guide! This guide will equip you with the knowled
 
 ## Custom Instructions ⚙️
 
-Think of **custom instructions as Cline's programming**. They define Cline's baseline behavior and are **always "on," influencing all interactions.** Custom instructions are set in the settings dial  ⚙️ of the Cline extension and are completely editable. They are powerful for:
+Think of **custom instructions as Cline's programming**. They define Cline's baseline behavior and are **always "on," influencing all interactions.** 
+
+To add custom instructions:
+1. Open VSCode
+2. Click the Cline extension settings dial ⚙️
+3. Find the "Custom Instructions" field
+4. Paste your instructions
+
+[screenshot: custom-instructions-settings.png]
+
+Custom instructions are powerful for:
 
 *   Enforcing Coding Style and Best Practices: Ensure Cline always adheres to your team's coding conventions, naming conventions, and best practices.
 *   Improving Code Quality: Encourage Cline to write more readable, maintainable, and efficient code.
