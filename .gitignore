@@ -19,3 +19,6 @@ bazel-out/
 # Ignore build artifacts
 build/
 staging/
+
+# Ignore .gitignore
+.gitignore
