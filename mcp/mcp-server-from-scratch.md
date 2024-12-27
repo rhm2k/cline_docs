@@ -39,7 +39,6 @@ First, you need to clearly communicate to Cline the purpose and functionalities 
 
 Based on your instructions, Cline starts the project setup process:
 
-*   **Memory Bank Creation:** Cline automatically generates documentation files, commonly in Markdown (`.md`) format, to store the project context. These files, referred to as the "Memory Bank," help Cline remember key details and requirements. \
 *   **Project Structure:** Cline might ask you for a name for your server.  Afterward, it uses the MCP `create-server` tool to generate the basic project structure for your GitHub Assistant server. This usually involves creating a new directory with essential files like `package.json`, `tsconfig.json`, and a `src` folder for your TypeScript code. \
 *   **Code Generation:** Cline generates starter code for your server, including: 
     *   **File Handling Utilities:** Functions to help with reading and writing files, commonly used for storing data or logs. \
