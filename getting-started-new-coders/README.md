@@ -56,6 +56,7 @@ Now that you have Cline installed, you'll need to set up your OpenRouter API key
         -   **Recommended Models for Coding:**
             -   `anthropic/claude-3.5-sonnet`: Most used for coding tasks.
             -   `google/gemini-2.0-flash-exp:free`: A free option for coding.
+            -   `deepseek/deepseek-chat`: SUPER CHEAP, almost as good as 3.5 sonnet
         -   [OpenRouter Model Rankings](https://openrouter.ai/rankings/programming)
 
 ## Your First Interaction with Cline
