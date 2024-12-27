@@ -94,5 +94,5 @@ There are various resources available for finding and learning about MCP servers
 
 *   **GitHub Repositories:** [https://github.com/modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) and [https://github.com/punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 *   **Online Directories:** [https://mcpservers.org/](https://mcpservers.org/), [https://mcp.so/](https://mcp.so/), and [https://glama.ai/mcp/servers](https://glama.ai/mcp/servers)
-*   **PulseMCP:** Website with a blog post about MCP and an FAQ section: [https://www.pulsemcp.com/](https://www.pulsemcp.com/)
+*   **PulseMCP:** [https://www.pulsemcp.com/](https://www.pulsemcp.com/)
 *   **YouTube Tutorial (AI-Driven Coder):** A video guide for building and using MCP servers: [https://www.youtube.com/watch?v=b5pqTNiuuJg](https://www.youtube.com/watch?v=b5pqTNiuuJg)
