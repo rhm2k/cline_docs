@@ -4,9 +4,19 @@ This guide provides a step-by-step walkthrough of how to use Cline to build an e
 
 ## **Finding an MCP Server**
 
-*   You can find a curated list of MCP servers at:
-    *   `https://github.com/modelcontextprotocol/servers`
-    *   `https://github.com/punkpeye/awesome-mcp-servers`
+There are multiple places online to find MCP servers:
+
+*   **Cline can automatically add MCP servers to its list, which you can then edit.** Cline can clone repositories directly from GitHub and build the servers for you.
+*   **GitHub:** Two of the most common places to find MCP servers on GitHub include:
+    *   [Official MCP servers repository](https://github.com/modelcontextprotocol/servers)
+    *   [Awesome-MCP servers repository](https://github.com/punkpeye/awesome-mcp-servers)
+*   **Online directories:** Several websites list MCP servers including:
+    *   [mcpservers.org](https://mcpservers.org/)
+    *   [mcp.so](https://mcp.so/)
+    *   [glama.ai/mcp/servers](https://glama.ai/mcp/servers)
+    
+    These directories allow users to sort the servers by various criteria such as downloads, date, stars, and use case. Each entry provides information such as features, tools, and configuration instructions.
+*   **PulseMCP:** This website has a blog post discussing how AI could use MCP servers to make websites obsolete. PulseMCP also includes an FAQ section about MCP servers: [https://www.pulsemcp.com/](https://www.pulsemcp.com/)
 
 ## **Building with Cline**
 
@@ -53,5 +63,3 @@ This guide provides a step-by-step walkthrough of how to use Cline to build an e
 *   **Stay Updated:** Keep your MCP servers updated to benefit from the latest features and security patches.
 
 
-
-This Markdown file provides a structured guide to building MCP servers from GitHub repositories using Cline. The guide emphasizes user interaction and guidance to Cline, highlighting the steps involved, potential challenges, and best practices.
