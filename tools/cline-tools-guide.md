@@ -45,7 +45,7 @@ Cline is your AI assistant that can:
 
 ## Available Tools
 
-Cline provides the following tools for various tasks:
+Cline has access to the following tools for various tasks:
 
 1. **File Operations**
    - `write_to_file`: Create or overwrite files
@@ -61,6 +61,8 @@ Cline provides the following tools for various tasks:
 3. **MCP Tools**
    - `use_mcp_tool`: Use tools from MCP servers
    - `access_mcp_resource`: Access MCP server resources
+   - Users can create custom MCP tools that Cline can then access
+   - Example: Create a weather API tool that Cline can use to fetch forecasts
 
 4. **Interaction Tools**
    - `ask_followup_question`: Ask user for clarification
