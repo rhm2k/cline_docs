@@ -2,16 +2,6 @@
 
 This document explains Model Context Protocol (MCP) servers, their capabilities, and how Cline can help build and use them. 
 
-## Table of Contents
-* Overview
-* Key Concepts
-* Use Cases
-* Getting Started
-* Integration with Cline
-* Security Considerations
-* Resources
-* Additional Guides
-
 ## Overview
 
 MCP servers act as intermediaries between large language models (LLMs), such as Claude, and external tools or data sources. They are small programs that expose functionalities to LLMs, enabling them to interact with the outside world through the MCP. An MCP server is essentially like an API that an LLM can use.
@@ -31,11 +21,6 @@ MCP servers define a set of "**tools,**" which are functions the LLM can execute
 The potential of MCP servers is vast. They can be used for a variety of purposes.
 
 **Here are some concrete examples of how MCP servers can be used:**
-
-* **File Management:** 
-  - Automatically generate code documentation
-  - Organize project files based on content analysis
-  - Create backup scripts for important directories
 
 * **Web Services and API Integration:**
   - Monitor GitHub repositories for new issues
