@@ -107,10 +107,3 @@ There are various resources available for finding and learning about MCP servers
 *   **Online Directories:** [https://mcpservers.org/](https://mcpservers.org/), [https://mcp.so/](https://mcp.so/), and [https://glama.ai/mcp/servers](https://glama.ai/mcp/servers)
 *   **PulseMCP:** Website with a blog post about MCP and an FAQ section: [https://www.pulsemcp.com/](https://www.pulsemcp.com/)
 *   **YouTube Tutorial:** A video guide for building and using MCP servers: [https://www.youtube.com/watch?v=b5pqTNiuuJg](https://www.youtube.com/watch?v=b5pqTNiuuJg)
-
-## Additional Guides
-
-This document provides a general overview of MCP servers and Cline's capabilities. For more detailed walkthroughs, please refer to the following guides:
-
-*   **Building MCP Servers from GitHub Repositories**: This guide provides step-by-step instructions on how to use Cline to build an MCP server from an existing GitHub repository.
-*   **Building Custom MCP Servers from Scratch**: This guide walks you through the process of building a custom MCP server from scratch using Cline, using the "GitHub Assistant Server" as an example.
