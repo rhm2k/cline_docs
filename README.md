@@ -28,8 +28,3 @@ This documentation provides resources to help you use Cline effectively.
 - **Want to contribute?**
   - Feel free to submit a pull request! I welcome contributions to improve and expand the documentation.
   - [Contribution Guidelines](CONTRIBUTING.md)
-
-## Additional Resources
-
-- **Cline GitHub Repository:** [https://github.com/your-repo/cline](https://github.com/your-repo/cline)
-- **MCP Documentation:** [https://modelcontextprotocol.org/docs](https://modelcontextprotocol.org/docs)
