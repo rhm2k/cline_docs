@@ -1,5 +1,9 @@
 # Cline and Model Context Protocol (MCP) Servers: Enhancing AI Capabilities
 
+**Quick Links:**
+- [Building MCP Servers from GitHub](mcp-server-from-github.md)
+- [Building Custom MCP Servers from Scratch](mcp-server-from-scratch.md)
+
 This document explains Model Context Protocol (MCP) servers, their capabilities, and how Cline can help build and use them. 
 
 ## Overview
