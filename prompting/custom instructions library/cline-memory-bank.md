@@ -18,7 +18,7 @@
     3. Find the "Custom Instructions" field
     4. Copy and paste the instructions from the section below
 
-    [screenshot: custom-instructions-settings.png]
+<img width="345" alt="Screenshot 2024-12-26 at 11 22 20 AM" src="https://github.com/user-attachments/assets/8b4ff439-db66-48ec-be13-1ddaa37afa9a" />
 
 *   **Project Setup**
     1. Create an empty `cline_docs` folder in your project root (i.e. YOUR-PROJECT-FOLDER/cline_docs)
@@ -32,7 +32,7 @@
     *   Start chats with "follow your custom instructions".
     *   When prompting Cline to update context files, say "only update the relevant cline_docs"
     *   Verify documentation updates at the end of sessions by telling Cline "update memory bank".
-    *   Update memory bank at $1.50 in tokens and end the session.
+    *   Update memory bank at ~2 million tokens and end the session.
 
 ### 3. Author & Contributors
 

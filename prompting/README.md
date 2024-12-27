@@ -12,7 +12,7 @@ To add custom instructions:
 3. Find the "Custom Instructions" field
 4. Paste your instructions
 
-[screenshot: custom-instructions-settings.png]
+<img width="345" alt="Screenshot 2024-12-26 at 11 22 20 AM" src="https://github.com/user-attachments/assets/00ae689b-d99f-4811-b2f4-fffe1e12f2ff" />
 
 Custom instructions are powerful for:
 
