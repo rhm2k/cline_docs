@@ -1,4 +1,4 @@
-# Getting Started with Cline
+# Cline Tools Reference Guide
 
 ## What Can Cline Do?
 Cline is your AI assistant that can:
@@ -45,6 +45,8 @@ Cline is your AI assistant that can:
 
 ## Available Tools
 
+For the most up-to-date implementation details, you can view the full source code in the [Cline repository](https://github.com/cline/cline/blob/main/src/core/Cline.ts).
+
 Cline has access to the following tools for various tasks:
 
 1. **File Operations**
@@ -70,7 +72,7 @@ Cline has access to the following tools for various tasks:
 
 Each tool has specific parameters and usage patterns. Here are some examples:
 
-- Create a new file:
+- Create a new file (write_to_file):
   ```xml
   <write_to_file>
   <path>src/components/Header.tsx</path>
@@ -80,7 +82,7 @@ Each tool has specific parameters and usage patterns. Here are some examples:
   </write_to_file>
   ```
 
-- Search for a pattern:
+- Search for a pattern (search_files):
   ```xml
   <search_files>
   <path>src</path>
@@ -89,7 +91,7 @@ Each tool has specific parameters and usage patterns. Here are some examples:
   </search_files>
   ```
 
-- Run a command:
+- Run a command (execute_command):
   ```xml
   <execute_command>
   <command>npm install axios</command>
@@ -111,7 +113,6 @@ Each tool has specific parameters and usage patterns. Here are some examples:
    - "Run npm install to add axios"
 
 ## Getting Help
-- Use the "?" button for quick help
-- Join the Discord community
+- [Join the Discord community](https://discord.gg/Mjyj2Sm3)
 - Check the documentation
 - Provide feedback to improve Cline
