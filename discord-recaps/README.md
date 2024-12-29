@@ -1,3 +1,13 @@
+# Cline Discord Recaps
+
+Daily summaries of key discussions and insights from the Cline Discord community.
+
+Each recap includes the day's TLDR, releases, major takeaways, and notable community quotes.
+
+[Join the conversation](https://discord.gg/Mjyj2Sm3)
+
+---
+
 ## Cline Discord Recap - December 28, 2024
 
 ### TLDR;
@@ -31,3 +41,5 @@ Cost remains a central discussion point as users actively compare DeepSeek v3 wi
 *   "Created my first custom MCP tool today - took 15 minutes and saved hours of repetitive work" (builderAI) [See quote](https://discord.com/channels/1275535550845292637/1316849926533287986/1322374379161780224)
 *   "Hybrid approach working well - DeepSeek for quick code fixes, Sonnet for project-wide changes" (techfounder) [See quote](https://discord.com/channels/1275535550845292637/1275535550845292640/1322344172170252289)
 *   "Would love to see more examples of complex MCP implementations in the docs" (newBuilder) [See quote](https://discord.com/channels/1275535550845292637/1316849926533287986/1322391594573500448)
+
+Join the conversation
