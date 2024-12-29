@@ -42,4 +42,4 @@ Cost remains a central discussion point as users actively compare DeepSeek v3 wi
 *   "Hybrid approach working well - DeepSeek for quick code fixes, Sonnet for project-wide changes" (techfounder) [See quote](https://discord.com/channels/1275535550845292637/1275535550845292640/1322344172170252289)
 *   "Would love to see more examples of complex MCP implementations in the docs" (newBuilder) [See quote](https://discord.com/channels/1275535550845292637/1316849926533287986/1322391594573500448)
 
-Join the conversation
+[Join the conversation](https://discord.gg/Mjyj2Sm3)
