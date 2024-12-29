@@ -92,6 +92,7 @@ progress.md
 2. If ANY files missing, stop and create them
 3. Read ALL files before proceeding
 4. Verify you have complete context
+5. Begin development. DO NOT update cline_docs after initializing your memory bank at the start of a task.
 
 ### During Development
 1. For normal development:
