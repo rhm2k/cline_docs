@@ -26,6 +26,35 @@ Custom instructions are powerful for:
 
 While custom instructions are user-specific and global (applying across all projects), the `.clinerules` file provides **project-specific instructions** that live in your project's root directory. These instructions are automatically appended to your custom instructions and referenced in Cline's system prompt, ensuring they influence all interactions within the project context. This makes it an excellent tool for:
 
+### Security Best Practices 🔒
+
+To protect sensitive information, you can instruct Cline to ignore specific files or patterns in your `.clinerules`. This is particularly important for:
+
+* `.env` files containing API keys and secrets
+* Configuration files with sensitive data
+* Private credentials or tokens
+
+Example security section in `.clinerules`:
+```markdown
+# Security
+
+## Sensitive Files
+DO NOT read or modify:
+- .env files
+- **/config/secrets.* 
+- **/*.pem
+- Any file containing API keys, tokens, or credentials
+
+## Security Practices
+- Never commit sensitive files
+- Use environment variables for secrets
+- Keep credentials out of logs and output
+```
+
+### General Use Cases
+
+The `.clinerules` file is excellent for:
+
 * Maintaining project standards across team members
 * Enforcing development practices
 * Managing documentation requirements
