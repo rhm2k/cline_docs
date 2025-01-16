@@ -50,8 +50,7 @@ Checkpoints let you be more experimental with Cline. While human coding is often
 - Compare different implementations
 - Quickly revert to working states
 
-![Checkpoints Demo](assets/checkpointsDemo.gif)
-
+![Checkpoints Demo](./assets/checkpointsDemo.gif)
 
 ## Best Practices
 
