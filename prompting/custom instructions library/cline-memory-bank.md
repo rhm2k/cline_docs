@@ -1,3 +1,5 @@
+# Note: These docs are no longer maintained. Please refer to https://docs.cline.bot/improving-your-prompting-skills/cline-memory-bank for the most recent version of Cline Memory Bank.
+---
 # Cline Memory Bank
 
 ## 1. Purpose and Functionality
